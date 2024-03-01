@@ -1,0 +1,21 @@
+
+   .table1{
+        width:80%;
+        
+        padding: 20px;
+        
+    }
+    .th,td{
+        border: 1px solid blue;
+        padding: 20px; 
+    } 
+    .Data{
+        background-color:beige;
+    }
+    .heading{
+        background-color: beige;
+
+    }
+    .dept{
+        background-color: khaki;
+    }

@@ -1,0 +1,59 @@
+.close{
+    margin-left: 1200px;
+    margin-right: 30px;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+    
+
+}
+.Port-Img {
+    margin-left: 115px;
+    padding: 20px;
+} 
+
+.containerPortal {
+    width: 100%;
+}
+
+.exit {
+    margin-right: 700px;
+}
+.responsive1{
+    max-width: 100%;
+    height:auto;
+}
+.section{
+    max-width: 100%;
+    height:auto;
+}
+.btn{
+    border:none;
+    display: inline-flex;
+}
+.bottom-container{
+    height: 100px;
+    text-align: center;
+    background-color:#3566e2;
+    padding: 20px;
+    
+  }
+  .copyright{
+    color:#EAF6F6;
+    font-size:0.75rem;
+    padding:20px 0;
+  }
+  a{
+    color:black;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 30px ;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+  p{
+    line-height: 2;
+  }
+

@@ -1,0 +1,21 @@
+.Links{
+    display: flex;
+}
+.Start{
+    display:flex;
+    gap:20px;
+}
+.page{
+    background-color: lightskyblue;
+    /* background-color: rgb(110, 184, 240); */
+}
+.a.hover{
+    background-color: rgb(175, 234, 47);
+    text-decoration:none ;
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+   
+

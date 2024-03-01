@@ -1,0 +1,40 @@
+h6{
+   width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    height: 40px;
+}
+.test{
+    width: 100%;
+}
+.dropdown-menu{
+    
+    /* align-items: center; */
+    width: 423px;
+    padding: 10px;
+}
+
+.Block{
+    background-color: rgb(167, 243, 243);
+     /* padding: 20px; */
+     width: 100%;
+     
+}
+.com{
+    background-color: red;
+    width: 50%;
+}
+.Last{
+    background-color: white;
+    text-align: center;
+}
+.responsive{
+    max-width: 100%;
+    height:auto;
+
+}
+.dropdown{
+    /* margin-left: 400px; */
+    /* width: 422px; */
+    width: 100%;
+}

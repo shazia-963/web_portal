@@ -1,0 +1,53 @@
+.appc{
+    padding: 20px;
+    width:100%;
+    background-color:lightblue;
+}
+.heading{
+    width:100%;
+    background-color:black;
+    color:white;
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 5px;
+    /* padding: 10px; */
+}
+.link{
+     padding-left: 270px;
+}
+.dept{
+    background-color: cadetblue;
+    width: 100%;
+    /* border-radius: 10px; */
+    padding: 10px;
+}
+.container{
+    display: block;
+}
+
+@media(max-width: 969px){
+        .heading{
+          padding:20px 0px;
+        }
+        h1{
+          font-size: 30px;
+          line-height: 40px;
+        }
+        .appc{
+          flex:0 0 calc( 100% -10px);
+          max-width:calc( 100% -10px);
+        }
+      }
+      @media(max-width:969px){
+     
+        .dept{
+          flex:0 0 100%;
+          max-width:100%;
+          
+        }
+      }
+    
+
+
+    
+    
